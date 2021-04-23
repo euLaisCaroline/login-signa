@@ -288,7 +288,6 @@ export default {
 				color: #000;
 			}
 		}
-
 		&__adicionar {
 			border: 0;
 			text-align: center;
