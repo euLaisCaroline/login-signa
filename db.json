@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "nome": "lais",
+      "sobrenome": "caroline",
+      "email": "lais.caroline@angis.com.br",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "nome": "lilian",
+      "sobrenome": "santos",
+      "email": "lilian@gmail.com",
+      "senha": "123",
+      "id": 2
+    },
+    {
+      "nome": "Thais",
+      "sobrenome": "Santos",
+      "email": "thaisantos@gmail.com",
+      "senha": "123",
+      "id": 3
+    },
+    {
+      "nome": "lilian",
+      "sobrenome": "gabrielle",
+      "email": "liliangabrielle@gmail.com",
+      "senha": "123",
+      "id": 4
+    }
+  ],
+  "alunos": [
+    {
+      "nome": "Laís Caroline Silva Santos",
+      "email": "lais.caroline@angis.com.br",
+      "ra": "12345",
+      "turma": "ADS-3C",
+      "id": 1
+    },
+    {
+      "nome": "Lilian Gabrielle Silva Santos",
+      "email": "lilian@gmail.com",
+      "ra": "12345",
+      "turma": "ADS-2A",
+      "id": 2
+    }
+  ]
+}
